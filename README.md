@@ -1,0 +1,2 @@
+# minimo-simple-projeqt
+test
